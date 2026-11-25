@@ -72,7 +72,8 @@ Ajustáveis no início de `Radar_Final.ino`:
 ├── Radar_Final.ino   # Código principal
 ├── pitches.h         # Frequências das notas musicais do buzzer
 ├── docs/
-│   └── circuito.png  # Esquema do circuito
+│   └── Circuito.png       # Esquema do circuito
+│   └── JSON_Circuito.txt  # JSON do esquema do circuito
 └── README.md
 ```
 
