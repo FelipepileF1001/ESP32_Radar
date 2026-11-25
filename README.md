@@ -101,6 +101,15 @@ Para ajudar a isolar a causa, veja os testes sugeridos nas melhorias abaixo.
 - [ ] Testar com outro módulo HC-SR04.
 - [ ] Permitir ajustar o limite de distância pela interface web.
 
+## Autores
+
+_Daniel Santiago Purificação_<br>
+_Felipe de Lima Monteiro_<br>
+_João Vitor Ludovino Leite Alves_<br>
+_Nicolas Caldeira dos Santos_<br>
+_Nicolas Jimenes Haase_<br>
+_Pedro Dias Guedes Santos_<br>
+
 ## 📄 Licença
 
 Defina a licença do projeto (por exemplo, MIT) e adicione o arquivo `LICENSE`.
